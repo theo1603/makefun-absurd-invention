@@ -10,9 +10,8 @@ Deterministic, stdlib only, no network, no input.
 import os
 
 PITCH = (
-    "A self-watering plant that threatens to text your ex every time you "
-    "forget to water it, because public humiliation is the only irrigation "
-    "schedule that has ever worked."
+    "A houseplant that files for custody of itself whenever you forget to "
+    "water it, so neglect finally has legal consequences."
 )
 
 
